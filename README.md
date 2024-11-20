@@ -2,10 +2,6 @@
 
 chessboard.js is a JavaScript chessboard component. It depends on [jQuery].
 
-Please see [chessboardjs.com] for documentation and examples.
-
-
-
 chessboard.js is a JavaScript chessboard component with a flexible "just a
 board" API that
 
@@ -55,11 +51,6 @@ Here is a list of things that chessboard.js is **not**:
 chessboard.js is designed to work well with any of those things, but the idea
 behind chessboard.js is that the logic that controls the board should be
 independent of those other problems.
-
-
-
-- Docs - <http://chessboardjs.com/docs>
-- Examples - <http://chessboardjs.com/examples>
 
 
 
